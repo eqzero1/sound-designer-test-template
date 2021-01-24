@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{abd412cc-1e0c-4643-ab8d-9dc5892657ac}">
+		<property name="assetPath">
+			<value>noise__s.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>202.73632653061225</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3598f495-11ed-4f3e-aaf4-cb301903ce2e}</destination>
+		</relationship>
+	</object>
+</objects>
